@@ -4,15 +4,19 @@ body{
 }
 
 .p5Canvas{
-    width: 700px;
-    height: 700px;
-    margin-left: 600;
-    margin-top: 40;
     border-radius: 15px;
     -webkit-border-radius: 15px;
     -moz-border-radius: 15px;
     -ms-border-radius: 15px;
     -o-border-radius: 15px;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 700px;
+    height: 500px;
+
 }
 
 h1{
